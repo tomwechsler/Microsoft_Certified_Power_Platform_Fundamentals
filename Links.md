@@ -76,6 +76,38 @@ https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/accessible-apps
 
 **Identify the core components of Power Platform**
 
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/data-platform-create-app-scratch
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-common-data-service/3-identify-entities-fields
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-common-data-service/4-understand-relationships
+
+https://docs.microsoft.com/en-us/power-apps/maker/data-platform/solutions-overview
+
+https://docs.microsoft.com/en-us/power-apps/maker/data-platform/processes
+
+https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form
+
+https://docs.microsoft.com/en-us/common-data-model/use
+
+https://docs.microsoft.com/en-us/common-data-model/faq
+
+https://docs.microsoft.com/en-us/power-apps/maker/data-platform/create-edit-metadata
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/3-data-connectors
+
+https://powerapps.microsoft.com/en-us/blog/introducing-ai-builder-for-powerplatform/
+
+https://docs.microsoft.com/en-us/ai-builder/overview
+
+https://docs.microsoft.com/en-us/ai-builder/model-types
+
+https://docs.microsoft.com/en-us/ai-builder/prediction-overview
+
+https://docs.microsoft.com/en-us/ai-builder/prediction-create-model
+
+https://docs.microsoft.com/en-us/ai-builder/prediction-use
+
 **Demonstrate the capabilities of Power BI**
 
 **Describe the capabilities of Power Apps**
