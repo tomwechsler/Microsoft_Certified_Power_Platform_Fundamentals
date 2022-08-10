@@ -16,6 +16,21 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Describe the business value of Power Platform**
 
+https://powerbi.microsoft.com/en-us/why-power-bi/
+
+https://powerapps.microsoft.com/en-us/
+
+https://docs.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro
+
+https://docs.microsoft.com/en-us/power-apps/maker/data-platform/why-dataverse-overview
+
+https://powerautomate.microsoft.com/en-us/
+
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/connections-list
+
+https://powervirtualagents.microsoft.com/en-us/blog/power-virtual-agents-bot-framework-enabling-everyone-to-build-intelligent-chatbots/
+
+
 **Identify the core components of Power Platform**
 
 **Demonstrate the capabilities of Power BI**
