@@ -30,6 +30,49 @@ https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/connections-list
 
 https://powervirtualagents.microsoft.com/en-us/blog/power-virtual-agents-bot-framework-enabling-everyone-to-build-intelligent-chatbots/
 
+https://docs.microsoft.com/en-us/power-platform/admin/wp-security-cds
+
+https://docs.microsoft.com/en-us/power-platform/admin/wp-security
+
+https://docs.microsoft.com/en-us/power-platform/admin/governance-considerations
+
+https://docs.microsoft.com/en-gb/power-platform/admin/database-security
+
+https://docs.microsoft.com/en-us/power-platform/admin/create-environment
+
+https://docs.microsoft.com/en-us/power-platform/admin/environments-overview
+
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/intro-maker-portal
+
+https://powerapps.microsoft.com/en-us/blog/establishing-an-environment-strategy-for-microsoft-power-platform/
+
+https://docs.microsoft.com/en-us/power-platform/admin/create-environment
+
+https://docs.microsoft.com/en-us/power-platform/admin/wp-work-with-admin-portals
+
+https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/about-admin-roles
+
+https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/assign-admin-roles
+
+https://docs.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview
+
+https://docs.microsoft.com/en-us/power-automate/prevent-data-loss
+
+https://docs.microsoft.com/en-us/power-platform/admin/prevent-data-loss
+
+https://docs.microsoft.com/en-us/power-platform/admin/create-dlp-policy
+
+https://docs.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention
+
+https://powerapps.microsoft.com/en-us/blog/new-data-loss-prevention-capabilities-in-public-preview/
+
+https://docs.microsoft.com/en-us/power-platform/admin/wp-compliance-data-privacy
+
+https://powerapps.microsoft.com/en-us/blog/powerapps-canvas-app-accessibility-guidelines/
+
+https://powerapps.microsoft.com/en-us/blog/making-apps-accessible/
+
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/accessible-apps
 
 **Identify the core components of Power Platform**
 
