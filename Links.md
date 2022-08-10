@@ -108,6 +108,24 @@ https://docs.microsoft.com/en-us/ai-builder/prediction-create-model
 
 https://docs.microsoft.com/en-us/ai-builder/prediction-use
 
+https://docs.microsoft.com/en-us/ai-builder/business-card-reader-component-model-driven
+
+https://docs.microsoft.com/en-us/ai-builder/flow-business-card-reader
+
+https://docs.microsoft.com/en-us/ai-builder/get-started-with-object-detection
+
+https://docs.microsoft.com/en-us/ai-builder/object-detection-model-in-flow
+
+https://docs.microsoft.com/en-us/ai-builder/object-detection-train-model
+
+https://docs.microsoft.com/en-us/ai-builder/form-processing-model-overview
+
+https://docs.microsoft.com/en-us/ai-builder/create-form-processing-model
+
+https://docs.microsoft.com/en-us/ai-builder/form-processing-model-in-flow
+
+https://docs.microsoft.com/en-us/ai-builder/form-processing-train
+
 **Demonstrate the capabilities of Power BI**
 
 **Describe the capabilities of Power Apps**
