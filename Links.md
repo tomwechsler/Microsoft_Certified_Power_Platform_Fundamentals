@@ -128,6 +128,39 @@ https://docs.microsoft.com/en-us/ai-builder/form-processing-train
 
 **Demonstrate the capabilities of Power BI**
 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-report-visualizations
+
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
+
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-customize-title-background-and-legend
+
+https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-report-filter-types
+
+https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-what-is-desktop
+
+https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
+
+https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources
+
+https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-types
+
+https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-ribbon
+
+https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-modeling-view
+
+https://powerbi.microsoft.com/en-us/developers/custom-visualization/
+
+https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/customize/use-custom-controls-data-visualizations
+
+https://docs.microsoft.com/en-us/power-bi/developer/visuals/develop-circle-card
+
+https://docs.microsoft.com/en-us/power-bi/developer/visuals/power-bi-custom-visuals-certified
+
+https://powerbi.microsoft.com/en-us/blog/how-to-govern-power-bi-visuals-inside-your-organization/
+
+https://docs.microsoft.com/en-us/power-bi/fundamentals/service-service-vs-desktop
+
+
 **Describe the capabilities of Power Apps**
 
 **Demonstrate the capabilities of Power Automate**
