@@ -160,6 +160,35 @@ https://powerbi.microsoft.com/en-us/blog/how-to-govern-power-bi-visuals-inside-y
 
 https://docs.microsoft.com/en-us/power-bi/fundamentals/service-service-vs-desktop
 
+https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data
+
+https://docs.microsoft.com/en-us/power-query/power-query-ui
+
+https://docs.microsoft.com/en-us/power-bi/transform-model/
+
+https://docs.microsoft.com/en-us/power-bi/enterprise/aggregations-auto
+
+https://docs.microsoft.com/en-us/power-bi/create-reports/service-aggregates
+
+https://support.microsoft.com/en-us/office/find-out-which-data-sources-are-used-in-a-workbook-data-model-44ef9af5-fffd-45a2-8f7c-caa04a2f774f
+
+https://docs.microsoft.com/en-us/power-bi/connect-data/service-template-apps-overview
+
+https://docs.microsoft.com/en-us/business-applications-release-notes/april19/business-intelligence/power-bi-service/shared-certified-datasets
+
+https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboards
+
+https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboards-design-tips
+
+https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-create
+
+https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-how-to-collaborate-distribute-dashboards-reports
+
+https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards
+
+https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-upload-desktop-files
+
+https://docs.microsoft.com/en-us/power-bi/consumer/end-user-shared-with-me
 
 **Describe the capabilities of Power Apps**
 
