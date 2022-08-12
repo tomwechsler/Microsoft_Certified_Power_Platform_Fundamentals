@@ -204,6 +204,27 @@ https://docs.microsoft.com/en-us/power-apps/developer/component-framework/overvi
 
 https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-formulas
 
+https://docs.microsoft.com/en-us/power-platform/power-fx/reference/data-types
+
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/connections-list
+
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/connections/connection-common-data-service
+
+https://docs.microsoft.com/en-us/learn/modules/controls-canvas-apps/
+
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/save-publish-app
+
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/share-app
+
+
+
+
+
+
+
+
+
+
 **Demonstrate the capabilities of Power Automate**
 
 **Demonstrate the business value of Power Virtual Agents**
