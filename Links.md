@@ -250,4 +250,25 @@ https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/validate-app
 
 **Demonstrate the capabilities of Power Automate**
 
+https://docs.microsoft.com/en-us/power-automate/getting-started
+
+https://docs.microsoft.com/en-us/learn/modules/get-started-flows/2-create-first-flow
+
+https://docs.microsoft.com/en-us/power-automate/getting-started
+
+https://docs.microsoft.com/en-us/power-automate/add-manage-connections
+
+https://docs.microsoft.com/en-us/power-automate/apply-to-each
+
+https://flow.microsoft.com/en-us/blog/use-expressions-in-actions/
+
+https://docs.microsoft.com/en-us/power-automate/modern-approvals
+
+
+
+
+
+
+
+
 **Demonstrate the business value of Power Virtual Agents**
