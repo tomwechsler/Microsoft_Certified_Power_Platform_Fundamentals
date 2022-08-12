@@ -281,3 +281,29 @@ https://docs.microsoft.com/en-us/power-automate/see-a-flow-run
 https://docs.microsoft.com/en-us/power-automate/desktop-flows/run-pad-flow
 
 **Demonstrate the business value of Power Virtual Agents**
+
+https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents
+
+https://docs.microsoft.com/en-us/power-virtual-agents/publication-fundamentals-publish-channels
+
+https://docs.microsoft.com/en-us/power-virtual-agents/advanced-fundamentals
+
+https://powervirtualagents.microsoft.com/en-us/blog/building-a-crisis-faq-bot-using-power-virtual-agents/
+
+https://docs.microsoft.com/en-us/power-virtual-agents/advanced-flow
+
+https://docs.microsoft.com/en-us/power-virtual-agents/authoring-first-bot
+
+https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-get-started
+
+https://docs.microsoft.com/en-us/power-virtual-agents/authoring-create-edit-topics
+
+https://docs.microsoft.com/en-us/power-virtual-agents/advanced-create-topics-from-web
+
+https://docs.microsoft.com/en-us/power-virtual-agents/authoring-test-bot
+
+https://docs.microsoft.com/en-us/power-virtual-agents/analytics-summary
+
+https://docs.microsoft.com/en-us/power-virtual-agents/analytics-topic-details
+
+https://docs.microsoft.com/en-us/power-virtual-agents/analytics-csat
