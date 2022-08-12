@@ -192,6 +192,18 @@ https://docs.microsoft.com/en-us/power-bi/consumer/end-user-shared-with-me
 
 **Describe the capabilities of Power Apps**
 
+https://powerapps.microsoft.com/en-us/blog/introducing-powerapps-portals-powerful-low-code-websites-for-external-users/
+
+https://docs.microsoft.com/en-us/power-apps/maker/portals/overview
+
+https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/microsoft-powerapps/portal
+
+https://docs.microsoft.com/en-us/power-apps/maker/portals/faq
+
+https://docs.microsoft.com/en-us/power-apps/developer/component-framework/overview
+
+https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-formulas
+
 **Demonstrate the capabilities of Power Automate**
 
 **Demonstrate the business value of Power Virtual Agents**
