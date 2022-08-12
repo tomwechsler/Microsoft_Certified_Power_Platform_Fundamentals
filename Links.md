@@ -264,11 +264,20 @@ https://flow.microsoft.com/en-us/blog/use-expressions-in-actions/
 
 https://docs.microsoft.com/en-us/power-automate/modern-approvals
 
+https://docs.microsoft.com/en-us/power-automate/run-scheduled-tasks
 
+https://docs.microsoft.com/en-us/power-automate/introduction-to-button-flows
 
+https://docs.microsoft.com/en-us/power-automate/button-flow-with-user-input-tokens
 
+https://docs.microsoft.com/en-us/power-automate/get-started-logic-flow
 
+https://docs.microsoft.com/en-us/power-automate/get-started-logic-template
 
+https://docs.microsoft.com/en-us/power-automate/data-operations
 
+https://docs.microsoft.com/en-us/power-automate/see-a-flow-run
+
+https://docs.microsoft.com/en-us/power-automate/desktop-flows/run-pad-flow
 
 **Demonstrate the business value of Power Virtual Agents**
