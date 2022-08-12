@@ -216,14 +216,37 @@ https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/save-publish-app
 
 https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/share-app
 
+https://docs.microsoft.com/en-us/power-apps/maker/portals/configure/page-templates
 
+https://docs.microsoft.com/en-us/power-apps/maker/portals/create-portal
 
+https://docs.microsoft.com/en-us/learn/modules/intro-portals/5-extensibility-overview
 
+https://docs.microsoft.com/en-us/power-apps/maker/portals/configure/configure-portal-authentication
 
+https://docs.microsoft.com/en-us/power-apps/maker/portals/configure/set-authentication-identity
 
+https://docs.microsoft.com/en-us/power-apps/maker/portals/theme-overview
 
+https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/create-themes-organization-branding
 
+https://docs.microsoft.com/en-us/power-apps/maker/portals/edit-css
 
+https://docs.microsoft.com/en-us/power-apps/user/navigation
+
+https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/build-first-model-driven-app
+
+https://docs.microsoft.com/en-us/power-apps/developer/model-driven-apps/customize-entity-forms
+
+https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/create-edit-views-app-designer
+
+https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/create-edit-quick-view-forms
+
+https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/create-and-edit-forms
+
+https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/share-model-driven-app
+
+https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/validate-app
 
 **Demonstrate the capabilities of Power Automate**
 
