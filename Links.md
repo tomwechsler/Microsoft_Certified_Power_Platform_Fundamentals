@@ -311,6 +311,6 @@ https://docs.microsoft.com/en-us/power-virtual-agents/analytics-csat
 More helpful links:
 -------------------
 
-https://powerapps.microsoft.com/de-de/
+https://powerapps.microsoft.com/en-us/
 
-https://dynamics.microsoft.com/de-de/dynamics-365-free-trial/
+https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/
