@@ -307,3 +307,10 @@ https://docs.microsoft.com/en-us/power-virtual-agents/analytics-summary
 https://docs.microsoft.com/en-us/power-virtual-agents/analytics-topic-details
 
 https://docs.microsoft.com/en-us/power-virtual-agents/analytics-csat
+
+More helpful links:
+-------------------
+
+https://powerapps.microsoft.com/de-de/
+
+https://dynamics.microsoft.com/de-de/dynamics-365-free-trial/
