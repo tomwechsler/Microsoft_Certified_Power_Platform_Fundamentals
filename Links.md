@@ -314,3 +314,5 @@ More helpful links:
 https://powerapps.microsoft.com/en-us/
 
 https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/
+
+https://powerbi.microsoft.com/en-us/getting-started-with-power-bi/
